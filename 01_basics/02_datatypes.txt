@@ -1,0 +1,2 @@
+The use of "use strict" helps enforce stricter parsing and error handling in JavaScript, allowing older code to be treated as newer standards.
+The speaker notes that many developers may not need to explicitly use "use strict" anymore, as modern environments default to strict mode.
