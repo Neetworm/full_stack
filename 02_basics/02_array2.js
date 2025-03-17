@@ -1,5 +1,5 @@
-const marvel_heros= ["thor","captain", "hulk"]
-const dc_heros= ["superman","bateman ", "flash"]
+// const marvel_heros= ["thor","captain", "hulk"]
+// const dc_heros= ["superman","bateman ", "flash"]
 
 // marvel_heros.push(dc_heros)
 // console.log(marvel_heros)
@@ -13,8 +13,8 @@ const dc_heros= ["superman","bateman ", "flash"]
 // console.log(all_new_heros)
 
 
-const arr= [1,2,3,[4,5,6],7,[8,9]]
-console.log(arr.flat())
+// const arr= [1,2,3,[4,5,6],7,[8,9]]
+// console.log(arr.flat())
 // for data scraping.
 // console.log(Array.isArray("google"))
 // console.log(Array.from("google"))
